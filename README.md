@@ -7,3 +7,5 @@ First, run the development server:
 first commit by Sarathy done
 Success
 3rd
+
+03/12/2024 vercel depoly succeeded.
