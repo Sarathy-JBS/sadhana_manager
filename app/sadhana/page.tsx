@@ -33,6 +33,11 @@ export default function SadhanaTable() {
   return (
     <div>
       <h1>Sadhana Records</h1>
+      <h4>
+        Here we can add charts, or essentials elements, when we are done with
+        the basic thing
+      </h4>
+
       <table border={1}>
         <thead>
           <tr>
